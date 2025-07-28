@@ -1,0 +1,14 @@
+C:\Users\jseidl\source\repos\CSharpCalculator\bin\Debug\net8.0\CSharpCalculator.exe
+C:\Users\jseidl\source\repos\CSharpCalculator\bin\Debug\net8.0\CSharpCalculator.deps.json
+C:\Users\jseidl\source\repos\CSharpCalculator\bin\Debug\net8.0\CSharpCalculator.runtimeconfig.json
+C:\Users\jseidl\source\repos\CSharpCalculator\bin\Debug\net8.0\CSharpCalculator.dll
+C:\Users\jseidl\source\repos\CSharpCalculator\bin\Debug\net8.0\CSharpCalculator.pdb
+C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\CSharpCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\CSharpCalculator.AssemblyInfoInputs.cache
+C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\CSharpCalculator.AssemblyInfo.cs
+C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\CSharpCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\CSharpCalculator.dll
+C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\refint\CSharpCalculator.dll
+C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\CSharpCalculator.pdb
+C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\CSharpCalculator.genruntimeconfig.cache
+C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\ref\CSharpCalculator.dll
