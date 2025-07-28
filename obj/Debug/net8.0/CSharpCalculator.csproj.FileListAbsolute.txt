@@ -12,3 +12,4 @@ C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\refint\CSharpCalc
 C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\CSharpCalculator.pdb
 C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\CSharpCalculator.genruntimeconfig.cache
 C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\ref\CSharpCalculator.dll
+C:\Users\jseidl\source\repos\CSharpCalculator\obj\Debug\net8.0\CSharpCalculator.sourcelink.json
