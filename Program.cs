@@ -1,15 +1,36 @@
 ﻿using calculator;
 
-Console.WriteLine("First Number:");
-int value1 = int.Parse(Console.ReadLine());
-Console.WriteLine("Second Number:");
-int value2 = int.Parse(Console.ReadLine());
-
 Calc calc = new Calc();
 
-Console.WriteLine("The sum is:");
-calc.addVals(value1, value2);
-Console.WriteLine("The product is:");
-calc.multiplyNums(value1, value2);
+Console.WriteLine("Please choose an operator (+, -, *, /, mean): ");
+string operation = Console.ReadLine();
+
+Console.WriteLine("Enter first number:");
+int num1 = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Enter first number:");
+int num2 = int.Parse(Console.ReadLine());
+
+
+
+switch (operation)
+{
+    case "+":
+        Console.WriteLine($"Sum of numbers: {calc.addNums(num1,num2)}");
+        break;
+    case "-":
+        Console.WriteLine($"Difference of numbers: {calc.subtractNums(num1, num2)}");
+        break;
+    case "*":
+        Console.WriteLine($"Product of numbers: {calc.multiplyNums(num1, num2)}");
+        break;
+    case "/":
+        Console.WriteLine($"Quotient of numbers: {calc.divideNums(num1,num2)}");
+        break;
+    case "mean":
+        Console.WriteLine($"Mean of numbers: {calc.avgNums(num1,num2)}");
+        break;
+}
+
 
 Console.ReadLine();
