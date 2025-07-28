@@ -7,7 +7,9 @@ int value2 = int.Parse(Console.ReadLine());
 
 Calc calc = new Calc();
 
-
+Console.WriteLine("The sum is:");
 calc.addVals(value1, value2);
+Console.WriteLine("The product is:");
+calc.multiplyNums(value1, value2);
 
 Console.ReadLine();
